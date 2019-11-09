@@ -10,4 +10,4 @@ You can find it in the Opernet folder in this repository.
 Once you've installed Opernet, run it and select the cssHmOS folder.
 That can also be downloaded in this repository (just download the whole repo as a zip to save time).
 Then it should be hosted on localhost a few seconds later.
-[Click here to go to localhost!](https://cutt.ly/go-to-locahost-from-csshmos)
+[Click here to go to localhost!](https://tinyurl.com/localhostfromcsshmos)
