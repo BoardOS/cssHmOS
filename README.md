@@ -1,25 +1,13 @@
 # cssHmOS
-cssHmOS is a web operating system for Opernet and XAMPP
+cssHmOS is a web operating system for Opernet
 
-# How to install cssHmOS for Opernet
-- Download and install Opernet Web
-- Download the Opernet file in this repository
-- Open it in Opernet and wait for cssHmOS to load
-
-# How to install cssHmOS for XAMPP
-- Download and install XAMPP
-- Download the HTML code in this repository
-- Remove all files in TheFolderYourInstalledXAMPP\htdocs
-- Copy and paste the HTML code to htdocs
-- Run XAMPP
-- Start Apache
-- Go to localhost in your browser
-
-# How to run cssHmOS in your browser
-- Download the HTML code in this repository
-- Open the code in your browser
-
-# Which one should I choose?
-- Opernet is the only one that works fully for BoardOS
-- XAMPP works on Windows, Linux and Mac OS
-- Running the HTML code in your browser is most stable on every OS
+# How to install cssHmOS
+You can install cssHmOS by simply running the HTML code.
+If you like, you can host in on localhost with Opernet.
+Opernet is an open-source distribution of XAMPP (distibution of Apache).
+You can install it using "opernet-apache.exe."
+You can find it in the Opernet folder in this repository.
+Once you've installed Opernet, run it and select the cssHmOS folder.
+That can also be downloaded in this repository (just download the whole repo as a zip to save time).
+Then it should be hosted on localhost a few seconds later.
+[Click here to go to localhost!](https://cutt.ly/go-to-locahost-from-csshmos)
